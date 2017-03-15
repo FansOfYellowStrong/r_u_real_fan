@@ -1,0 +1,33 @@
+{
+  "name": "realfan",
+  "version": "0.0.2",
+  "description": "become a real fan!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "bin": {
+    "realfan": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FansOfYellowStrong/r_u_real_fan.git"
+  },
+  "keywords": [
+    "yellowstrong",
+    "yellow",
+    "strong",
+    "fan",
+    "real fan"
+  ],
+  "author": "forthedamn <github.com/forthedamn>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FansOfYellowStrong/r_u_real_fan/issues"
+  },
+  "homepage": "https://github.com/FansOfYellowStrong/r_u_real_fan#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "readline-sync": "^1.4.6"
+  }
+}
