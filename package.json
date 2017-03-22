@@ -1,6 +1,6 @@
 {
   "name": "realfan",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "become a real fan!",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/FansOfYellowStrong/r_u_real_fan.git"
   },
+  "maintainers": [
+    "d0u9 <https://github.com/d0u9>"
+  ],
   "keywords": [
     "yellowstrong",
     "yellow",
@@ -20,7 +23,7 @@
     "fan",
     "real fan"
   ],
-  "author": "forthedamn <github.com/forthedamn>",
+  "author": "forthedamn <https://github.com/forthedamn>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FansOfYellowStrong/r_u_real_fan/issues"
